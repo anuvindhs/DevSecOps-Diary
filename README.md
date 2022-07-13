@@ -1,4 +1,4 @@
-# DevSecOps-Diary
+# Diary-DevSecOps
 The One Stop Place for Everything Related to DevSecOps
 
 If you want to contribute to this library of knowledge please create proper PR (Pull Request) with description what you are adding following these set of rules:
